@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [GoZeroWaste](https://play.google.com/store/apps/details?id=com.zerowaste.gozerowaste)
+- 🔭 I’m currently working on [GoZeroWaste](https://play.google.com/store/apps/details?id=com.zerowaste.gozerowaste) and [Diskover](https://play.google.com/store/apps/details?id=com.diskover.mobileapp)
 
 - 🌱 I’m currently learning **Python and Go**
 
